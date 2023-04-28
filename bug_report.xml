@@ -1,1 +1,12 @@
-
+<xml>
+    <number_ID>1</number_ID>
+    <Title>Link 'create new account' Global Menu isn't open when clicking</Title>
+    <Seveity>critical</Seveity>
+    <Priority>hight</Priority>
+    <STR>
+        <one>Open link</one>
+        <two>Tap to button 'create new account'</two>
+    </STR>
+    <Expected_Result>Registration's window is opened</Expected_Result>
+    <Actual_Result>nothing happens, link isn't opened</Actual_Result>
+</xml>
